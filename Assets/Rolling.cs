@@ -20,7 +20,8 @@ public class Rolling : MonoBehaviour
        
         origin_position = transform.position;
         need_fall = false;
-      
+       // need_fall = false;
+
     }
 
     // Update is called once per frame
